@@ -23,3 +23,4 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
              status_code=200
         )
 #Here is some changes we're sending in for the CICD pipes.
+#This should now be in SBX and PROD
